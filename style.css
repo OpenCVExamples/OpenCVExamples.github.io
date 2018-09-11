@@ -218,6 +218,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     border:0;
     font:inherit;
     vertical-align:baseline
+	min-width:988px;
 }
 body{
     padding:10px 50px 0 0;
@@ -227,6 +228,7 @@ body{
     background-color:#FBFAF7;
     margin:0;
     line-height:1.8em;
+	
     -webkit-font-smoothing:antialiased
 }
 h1,h2,h3,h4,h5,h6{
